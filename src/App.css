@@ -804,7 +804,7 @@ body::after {
   flex-direction: column;
 }
 .fm-player-box .player-title { font-weight: 900; font-size: 1.05rem; margin-bottom: 8px; }
-.fm-player-box .player-score { margin-top: 8px; font-weight: 900; font-size: 1.5rem; color: #b77900; text-align: right; }
+.fm-player-box .player-score { margin-top: 8px; font-weight: 900; font-size: 1.5rem; color: #b77900; text-align: right; padding-right: 22px; }
 .fm-player-box .player-total-label { margin-top: 8px; font-weight: 700; font-size: 0.95rem; color: rgba(7,16,34,0.75); text-align: right; }
 .fm-player-box .answer-input { flex: 1; width: auto; padding: 10px 12px; border-radius: 8px; border: 1px solid rgba(0,0,0,0.06); background: #fff; color: inherit; margin-right: 8px; box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: 0.2px; }
 .fm-player-box .points-input { width: 72px; padding: 10px 12px; border-radius: 8px; border: 1px solid rgba(0,0,0,0.06); text-align: right; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 900; font-size: 1rem; }

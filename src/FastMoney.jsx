@@ -46,7 +46,7 @@ export default function FastMoney(props) {
       <div className="fm-screen">
         <div className="fm-header-box">
           <h2>Fast Money</h2>
-          <div className="team-total">Team Total: {fastMoneyTotals[0] + fastMoneyTotals[1]}</div>
+          <div className="team-total">Total: {fastMoneyTotals[0] + fastMoneyTotals[1]}</div>
         </div>
 
         {!fastMoneyNamesEntered ? (
