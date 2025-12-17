@@ -5,28 +5,15 @@ const surveys = [
     "name": "1",
     "questions": [
       {
-        "question": "Name something you hang up during the holidays",
+         "question": "Name the last person in your life you would want to get caught under the mistletoe with.",
         "answers": [
-          {
-            "text": "Christmas lights",
-            "points": 33
-          },
-          {
-            "text": "Stockings",
-            "points": 27
-          },
-          {
-            "text": "Wreath",
-            "points": 19
-          },
-          {
-            "text": "Ornaments",
-            "points": 13
-          },
-          {
-            "text": "Garland",
-            "points": 8
-          }
+          { "text": "Ex", "points": 27 },
+          { "text": "Sibling", "points": 13 },
+          { "text": "In-Law", "points": 10 },
+          { "text": "Parent", "points": 10 },
+          { "text": "Friend", "points": 8 },
+          { "text": "Boss/Coworker", "points": 8 },
+          { "text": "Grandparent", "points": 5 }
         ]
       }
     ]
@@ -69,32 +56,15 @@ const surveys = [
     "name": "3",
     "questions": [
       {
-        "question": "Name a place you might visit during the holidays",
+        "question": "Tell me where you'd hate to be on Christmas",
         "answers": [
-          {
-            "text": "Family’s house",
-            "points": 31
-          },
-          {
-            "text": "Church",
-            "points": 20
-          },
-          {
-            "text": "Winter vacation spot",
-            "points": 19
-          },
-          {
-            "text": "Shopping mall",
-            "points": 17
-          },
-          {
-            "text": "Airport",
-            "points": 8
-          },
-          {
-            "text": "Christmas tree farm",
-            "points": 5
-          }
+          { "text": "Jail", "points": 23 },
+          { "text": "Work", "points": 19 },
+          { "text": "Airport/Plane", "points": 18 },
+          { "text": "Hospital", "points": 11 },
+          { "text": "Church", "points": 5 },
+          { "text": "Store/Mall", "points": 5 },
+          { "text": "The in-laws'", "points": 4 }
         ]
       }
     ]
@@ -133,28 +103,15 @@ const surveys = [
     "name": "5",
     "questions": [
       {
-        "question": "Name something people stress about at Christmas",
+                "question": "Instead of delivering presents, name something Bad Santa might do on Christmas Eve",
         "answers": [
-          {
-            "text": "Buying gifts",
-            "points": 29
-          },
-          {
-            "text": "Money",
-            "points": 27
-          },
-          {
-            "text": "Family gatherings/drama",
-            "points": 18
-          },
-          {
-            "text": "Cooking",
-            "points": 13
-          },
-          {
-            "text": "Travel",
-            "points": 12
-          }
+          { "text": "Get drunk", "points": 33 },
+          { "text": "Steal gifts", "points": 31 },
+          { "text": "Ho-Ho-Ho around", "points": 15 },
+          { "text": "Leave coal", "points": 4 },
+          { "text": "Poop in chimneys", "points": 2 },
+          { "text": "Sleep", "points": 2 },
+          { "text": "Watch TV", "points": 2 }
         ]
       }
     ]
@@ -231,28 +188,15 @@ const surveys = [
     "name": "8",
     "questions": [
       {
-        "question": "Name a gift that’s hard to shop for",
+        "question": "On Christmas morning, you discover Santa Claus is stuck in your chimney. Tell me the first thing you do.",
         "answers": [
-          {
-            "text": "Clothes",
-            "points": 27
-          },
-          {
-            "text": "Jewelry",
-            "points": 24
-          },
-          {
-            "text": "Perfume",
-            "points": 16
-          },
-          {
-            "text": "Toys",
-            "points": 14
-          },
-          {
-            "text": "Books",
-            "points": 9
-          }
+          { "text": "Call 911", "points": 40 },
+          { "text": "Help/Pull him out", "points": 22 },
+          { "text": "Laugh", "points": 10 },
+          { "text": "Take pictures", "points": 6 },
+          { "text": "Gasp/Scream", "points": 4 },
+          { "text": "Light the fire", "points": 4 },
+          { "text": "Steal gift sack", "points": 3 }
         ]
       }
     ]
